@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jan  8 21:47:03 2022
+# Process ID: 22760
+# Current directory: C:/Users/jiwoo/Desktop/Verilog study/Accelerometer_SPI/Accelerometer_SPI.runs/synth_1
+# Command line: vivado.exe -log SPI_Master.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SPI_Master.tcl
+# Log file: C:/Users/jiwoo/Desktop/Verilog study/Accelerometer_SPI/Accelerometer_SPI.runs/synth_1/SPI_Master.vds
+# Journal file: C:/Users/jiwoo/Desktop/Verilog study/Accelerometer_SPI/Accelerometer_SPI.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source SPI_Master.tcl -notrace
