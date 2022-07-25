@@ -8,3 +8,6 @@ output [3:0] tens_o, ones_o
     assign ones_o = data_in % 10;
     
 endmodule
+
+
+
