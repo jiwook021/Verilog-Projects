@@ -58,3 +58,4 @@ end
     assign result = (fast_freq > 600)? fast_freq: slow_freq; 
     
 endmodule
+
